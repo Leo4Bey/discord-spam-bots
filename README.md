@@ -1,7 +1,7 @@
-# Discord spam bots with multiple account support and more. *Made strictly for testing anti-spam for server owners*
+# Birden fazla hesabı destekleyen discord spam botu. *Kesinlikle sunucu sahiplerinin anti-spam'ı test etmesi için yapılmıştır*
 
-## PLEASE READ EVERYTHING BEFORE WRITING AN ISSUE!!
-Working DM spammers
+## Lütfen soru sormadan önce hepsini okuyun!!
+Çalışan fonksiyonlar
  - [X] Text
  - [ ] Insult
  - [ ] Image
@@ -18,16 +18,15 @@ Working DM spammers
 
 
 
-# Features 
-- Account Creator
-- Mulitple accounts
-- Image spammer
-- Insult spammer
-- Text spammer
-- Server joining
-- Proxy support 
+# Özelliklerr 
+- Hesap Oluşturucu
+- Çoklu hesap desteği
+- Resim spamlayıcı
+- Metin spamlayıcı
+- Sunucuya katılma
+- Proxy desteği 
 
-# Requirements 
+# Gerekli modüller/programlar 
 - Python 3.6+ (I use [3.7.8](https://www.python.org/downloads/release/python-378/))
 - discum
 - Beautiful Soup 4
@@ -35,17 +34,17 @@ Working DM spammers
 - Requests
 - 2captcha API
 
-# Setup
-- [Setting up the bot | aka the Wiki](https://github.com/Merubokkusu/discord-spam-bots/wiki)
+# Kurulum
+- [Bot kurulumu](https://github.com/Merubokkusu/discord-spam-bots/wiki)
 
-# Info
-Linux bots are tested using VM Virutal Box and Ubuntu/BunsenLabs
+# Bilgi
+Linux botları sanal makinede ubuntu ile test edilmiştir
 
-# ToS (READ ME!)
+# ToS (Oku!)
 
-Self-bots are against Discord's terms of service, using this on servers that aren't your own will get your account deleted.
-You could even get banned while using it on your own server. I'm not responsible if you do.
+Self-botlar discord'un kurallarına aykırıdır, sizin olmayan bir sunucuda denerseniz hesabınız silinebilir.
+Hatta kendi sunucunuzda bile deneseniz ban yiyebilirsiniz. Ben yaptıklarınızdan sorumlu değlim.
 
-This script is made only for testing your server's anti-spam, using bots like [sweetie](https://github.com/blackhole12/sweetiebot),  etc.
+Bu script sadece anti-spam'ı test etmek için yazılmıştır, Bu tarz botlar için [sweetie](https://github.com/blackhole12/sweetiebot),  etc.
 
 ![its a face](http://i.imgur.com/bTMYozm.png)
